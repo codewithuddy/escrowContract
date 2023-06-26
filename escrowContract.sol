@@ -3,6 +3,8 @@ pragma solidity >=0.4.22 <0.9.0;
 /// @title A contract for demonstrate Escrow Smart Contract
 /// @author Jitendra Kumar
 /// @notice For now, this contract just show how to third party manages the assets of buyer and seller
+/// I'll be adding features and modifying this contract to attempt various other functions and concepts
+/// PS: it is worthy to note this code was originally created by Jitendra Kumar, I'll be making modifications to it
 contract escrow{
 
 	// Declaring the state variables
