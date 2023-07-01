@@ -7,6 +7,7 @@ pragma solidity >=0.4.22 <0.9.0;
 /// PS: it is worthy to note this code was originally created by Jitendra Kumar, I'll be making modifications to it
 contract escrow{
 
+
 	// Declaring the state variables
 	address payable public buyer;
 	address payable public seller;
