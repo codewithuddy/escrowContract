@@ -60,6 +60,7 @@ contract escrow{
 		State.awate_payment) public payable{
 		state = State.awate_delivery;
 	}
+
 	
 	// Defining function to confirm delivery
 	function confirm_Delivery() onlyBuyer instate(
